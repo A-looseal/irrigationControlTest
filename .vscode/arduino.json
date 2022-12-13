@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "irrigationControlTest\\irrigationControlTest.ino",
+    "port": "COM7",
+    "output": "/builds"
+}
